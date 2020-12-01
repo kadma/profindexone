@@ -1,7 +1,7 @@
 {
-  "name": "OneManager",
+  "name": "ProfindexOne",
   "description": "Deploy OneManager to heroku",
-  "website": "https://github.com/qkqpttgf/OneManager-php",
-  "repository": "https://github.com/qkqpttgf/OneManager-php",
+  "website": "https://github.com/kadma/profindexone",
+  "repository": "https://github.com/kadma/profindexone",
   "success_url": "/"
 }
