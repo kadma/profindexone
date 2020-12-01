@@ -5,14 +5,14 @@ Install program first, then add onedrive in setup after login.
 Official: https://heroku.com  
 Demo: https://herooneindex.herokuapp.com/  
 
-How to Install: Click the button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kadma/profindexone) to Deploy a new app, or create an app then deploy via connect to your github fork.  
+How to Install: Click the button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/qkqpttgf/OneManager-php) to Deploy a new app, or create an app then deploy via connect to your github fork.  
 
 
 # Deploy to Glitch  
 Official: https://glitch.com/  
 Demo: https://onemanager.glitch.me/  
 
-How to Install: New Project -> Import form Github -> paste "https://github.com/kadma/profindexone", after done, Show -> In a New Window.  
+How to Install: New Project -> Import form Github -> paste "https://github.com/qkqpttgf/OneManager-php", after done, Show -> In a New Window.  
 
 
 # Deploy to Tencent Serverless Cloud Function (SCF 腾讯无服务器云函数)  
