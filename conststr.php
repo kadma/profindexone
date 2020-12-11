@@ -275,7 +275,7 @@ $constStr = [
         'fa' => 'موفقیت به روز رسانی برنامه!',
     ],
     'Setup' => [
-        'es' => 'Instalar',
+        'es' => 'Configuraciones',
         'en-us' => 'Setup',
         'zh-cn' => '设置',
         'ja' => '設定する',
@@ -354,7 +354,7 @@ $constStr = [
         'fa' => 'برنامه می تواند آپدیت شود<br>روی گزینه نصب در بالای صفحه کلیک کنید.',
     ],
     'Operate' => [
-        'es' => 'Operar',
+        'es' => 'Panel admin',
         'en-us' => 'Operate',
         'zh-cn' => '管理',
         'ja' => '管理',
