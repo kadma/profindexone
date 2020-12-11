@@ -251,7 +251,7 @@ $constStr = [
         'fa' => 'رمزگذاری',
     ],
     'SetpassfileBfEncrypt' => [
-        'en-us' => 'Pon \'passfile\' en entornos antes de cifrar',
+        'es' => 'Pon \'passfile\' en entornos antes de cifrar',
         'en-us' => 'Set \'passfile\' in Environments before encrypt',
         'zh-cn' => '先在环境变量设置passfile才能加密',
         'ja' => '最初に暗号化する環境変数にパスファイルを設定します',
@@ -723,7 +723,7 @@ $constStr = [
         'fa' => 'آپلود با موفقیت انجام شد',
     ],
     'UploadFail23' => [
-        'ens' => 'Error de carga, contiene #.',
+        'es' => 'Error de carga, contiene #.',
         'en-us' => 'Upload Fail, contain #.',
         'zh-cn' => '目录或文件名含有#，上传失败。',
         'ja' => 'ディレクトリまたはファイル名に＃が含まれています。アップロードに失敗しました。',
